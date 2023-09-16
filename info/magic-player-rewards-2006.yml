@@ -1,0 +1,17 @@
+---
+object: set
+id: 619f656b-94dc-4772-bc99-62bac48f1eb9
+code: p06
+name: Magic Player Rewards 2006
+uri: https://api.scryfall.com/sets/619f656b-94dc-4772-bc99-62bac48f1eb9
+scryfall_uri: https://scryfall.com/sets/p06
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ap06&unique=prints
+released_at: '2006-01-01'
+set_type: promo
+card_count: 7
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: mpr
+block: Magic Player Rewards
+icon_svg_uri: https://svgs.scryfall.io/sets/dci.svg?1694404800
